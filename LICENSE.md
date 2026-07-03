@@ -1,4 +1,4 @@
-# 
+# 智能 JetBrains IntelliJ IDEA 主题 Mac OS版 | 更新 JetBrains IntelliJ IDEA 主题 PC Windows版。集成 GraphQL支持 和 镜像扫描，跨平台性能最大化。
 
 
 
